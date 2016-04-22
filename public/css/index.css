@@ -34,14 +34,23 @@ body {
   display: inline-block;
 }
 
+.header-element img {
+  height: 170px;
+  border: 2px solid #33CCCC;
+}
+
+
 .outdoor-pics {
   background: white;
   /*border: 5px solid #33CCCC;*/
   border: 10px solid #C8C8C8;
-  padding: 10px;
   margin-left: 70px;
   margin-right: 70px;
   margin-top: 20px;
+}
+
+.outdoor-pics img {
+  height: 220px;
 }
 
 .image {
@@ -52,7 +61,7 @@ body {
 .title {
   text-align: center;
   font-size: 15px;
-  color: #33CCCC;
+  color: black;
 }
 
 .core-message {
@@ -65,7 +74,7 @@ body {
 
 .walk-beside-you {
   text-align: center;
-  color: #33CCCC;
+  color: black;
 }
 
 .help-bullets {
@@ -78,6 +87,10 @@ body {
   margin-left: 160px;
 }
 
+.picture-container img {
+  height: 45em;
+}
+/*
 .bold {
   color: #33CCCC;
-}
+}*/
