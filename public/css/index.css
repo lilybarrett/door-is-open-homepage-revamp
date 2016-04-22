@@ -69,7 +69,7 @@ body {
   padding: 10px;
   border: 10px solid #C8C8C8;
   /*border: 5px solid #33CCCC;*/
-  font-size: 15px;
+  font-size: 17px;
 }
 
 .walk-beside-you {
@@ -90,6 +90,7 @@ body {
 .picture-container img {
   height: 45em;
 }
+
 /*
 .bold {
   color: #33CCCC;
