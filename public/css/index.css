@@ -13,6 +13,10 @@ body {
   margin-top: 19px;
 }
 
+/*.top-bar {
+  position: fixed;
+}*/
+
 .dropdown li a {
   color: #33CCCC;
 }
