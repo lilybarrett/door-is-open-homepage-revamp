@@ -13,6 +13,10 @@ body {
   margin-top: 19px;
 }
 
+.dropdown {
+  border: 10px solid #C8C8C8;
+}
+
 .dropdown li a {
   color: black;
 }
