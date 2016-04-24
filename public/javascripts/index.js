@@ -3,6 +3,6 @@ $(function(){ $(document).foundation(); });
 $(document).ready(function(){
   $('.picture-container').slick({
     autoplay: true,
-    autoplaySpeed: 7000
+    autoplaySpeed: 4000
   });
 });

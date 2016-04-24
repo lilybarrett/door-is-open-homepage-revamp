@@ -13,12 +13,8 @@ body {
   margin-top: 19px;
 }
 
-/*.top-bar {
-  position: fixed;
-}*/
-
 .dropdown li a {
-  color: #33CCCC;
+  color: black;
 }
 
 .header {
@@ -26,7 +22,6 @@ body {
   border: 2px solid #C8C8C8;
   margin-left: 5px;
   margin-right: 5px;
-  /*border: 2px solid #33CCCC;*/
   padding: 10px;
   box-shadow: inset 3px 4px 5px #E0E0E0;
 }
@@ -48,9 +43,7 @@ body {
 
 .outdoor-pics {
   background: white;
-  /*border: 5px solid #33CCCC;*/
   border: 10px solid #C8C8C8;
-  /*margin: auto;*/
   margin-left: 20px;
   margin-right: 20px;
   margin-top: 20px;
@@ -68,6 +61,7 @@ body {
 .title {
   text-align: center;
   font-size: 15px;
+  margin-bottom: 5%;
   color: black;
 }
 
@@ -75,7 +69,6 @@ body {
   margin: 20px 10px 0px 10px;
   padding: 10px;
   border: 10px solid #C8C8C8;
-  /*border: 5px solid #33CCCC;*/
   font-size: 17px;
 }
 
@@ -85,20 +78,14 @@ body {
 }
 
 .help-bullets {
-  /*border: 5px solid #33CCCC;*/
   border: 10px solid #C8C8C8;
   margin: 10px;
-}
-
-.help-list {
-  margin-left: 160px;
 }
 
 .picture-container img {
   height: 45em;
 }
 
-/*
-.bold {
-  color: #33CCCC;
-}*/
+.help-list {
+  margin-left: 110px;
+}
